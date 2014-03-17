@@ -47,12 +47,12 @@
 
 	<properties>
 		<componentName>advert-mydashboard</componentName>
-		<jiraProjectName>ANNOUNCEMYDASH</jiraProjectName>
-		<jiraComponentId>10200</jiraComponentId>
+		<jiraProjectName>ADVERTDASH</jiraProjectName>
+		<jiraComponentId>12299</jiraComponentId>
 	</properties>
     <scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/modules-announce-mydashboard</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/collaboration/modules-announce-mydashboard</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</connection>
+        <developerConnection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</url>
     </scm>
 </project>
