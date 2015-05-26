@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>module-announce-mydashboard</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>Module Announce MyDashboard</name>
 
 	<repositories>
@@ -51,8 +51,8 @@
 		<jiraComponentId>12299</jiraComponentId>
 	</properties>
     <scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-announce-mydashboard-1.0.0</connection>
-        <developerConnection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-announce-mydashboard-1.0.0</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/tags/module-announce-mydashboard-1.0.0</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</connection>
+        <developerConnection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/collaboration/module-announce-mydashboard/</url>
     </scm>
 </project>
